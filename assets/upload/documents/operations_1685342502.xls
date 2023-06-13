@@ -1,0 +1,2446 @@
+   <table border="1">
+
+    <thead>
+        <tr>
+
+            <th>S.No</th>
+            <th>Policy No.</th>
+            <th>Log ID</th>
+            <th>Cust Name</th>
+            <th>Phone No.</th>
+
+            <th>Alternate No.</th>
+            <th>Email Id</th>
+            <th>City</th>
+            <th>D.O.B</th>
+            <th>Company Name</th>
+            <th>Product Name</th>
+
+            <th>Cover Type</th>
+            <th>Family Type</th>
+            <th>Sum Assured</th>
+            <th>Date </th>
+            <th>Premium</th>
+            <th>Net Premium</th>
+
+            <th>Counted Premium</th>
+            <th>Type</th>
+            <th>Term</th>
+            <th>Port Term</th>
+            <th>Medical</th>
+            <th>Zone</th>
+
+            <th>Agent</th>
+            <th>TL</th>
+            <th>Manager</th>
+            <th>Data Source</th>
+            <th>Login</th>
+            <th>Issued Status</th>
+
+            <th>Policy Enforced Date</th>
+            <th>PED</th>
+            <th>Discount</th>
+            <th>Rider</th>
+            <th>U/W Remark</th>
+
+            <th>Policy Start Date</th>
+            <th>Policy End Date</th>
+            <th>Policy Source</th>
+            <th>Operation Remark</th>
+        </tr>
+    </thead>
+    <tbody >
+                        <tr>
+                    <td id="count">1</td>
+                    <td>P/161130/01/2024/024465 </td>
+                    <td>90218138 </td>
+
+                    <td>Sanjay Mehrotra</td>
+                    <td>9582645363 </td>
+
+                    <td>9811755363 </td>
+                    <td>sanjaymehrotra1959@gmail.com </td>
+                    <td>Noida </td>
+                    <td>1959-03-03 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Arogya Sanjeevani </td>
+                    <td>Floater </td>
+                    <td>2 </td>
+                    <td>500000 </td>
+                    <td>2023-05-05 15:12:02 </td>
+
+                    <td>29514.00 </td>
+                    <td>25011.86 </td>
+                    <td>25012 </td>
+                    <td>Fresh </td>
+                    <td>1 </td>
+
+                    <td></td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Sunita-10688 </td>
+                    <td> </td>
+                    <td>Seema10011 </td>
+                    <td>02 </td>
+                    <td>Login </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-16 04:29:31 </td>
+                    <td>NA /NA/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/None/ </td>
+                    <td>2023-05-06 </td>
+                    <td>2024-05-05 </td>
+                    <td>Fresh </td>
+                    <td>End date corrected </td>
+                </tr>
+                        <tr>
+                    <td id="count">2</td>
+                    <td>P/161130/01/2024/021395 </td>
+                    <td>90038652 </td>
+
+                    <td>PANKAJ KUMAR</td>
+                    <td>9717999270 </td>
+
+                    <td>9717999270 </td>
+                    <td>pankajsinghal.delhishelter@gmail.com </td>
+                    <td>Ghaziabad </td>
+                    <td>1967-05-29 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Super Surplus Silver </td>
+                    <td>Individual </td>
+                    <td>1 </td>
+                    <td>10000000 </td>
+                    <td>2023-05-01 11:30:25 </td>
+
+                    <td>9452.00 </td>
+                    <td>8010.17 </td>
+                    <td>8010 </td>
+                    <td>Fresh </td>
+                    <td>1 </td>
+
+                    <td></td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Megha-10666 </td>
+                    <td> </td>
+                    <td>Seema10011 </td>
+                    <td>Data1 </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-09 16:20:15 </td>
+                    <td>bp,covid home quarantine,utrus remove/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/ </td>
+                    <td>2023-05-01 </td>
+                    <td>2024-04-30 </td>
+                    <td>Fresh </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">3</td>
+                    <td>P/161130/01/2024/022164 </td>
+                    <td>90066368 </td>
+
+                    <td>M Kumar</td>
+                    <td>9964434102 </td>
+
+                    <td></td>
+                    <td>kkdkumar5@gmail.com </td>
+                    <td>Chennai </td>
+                    <td>1965-05-20 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Health Assure </td>
+                    <td>Individual </td>
+                    <td>1 </td>
+                    <td>500000 </td>
+                    <td>2023-05-01 17:25:27 </td>
+
+                    <td>21376.00 </td>
+                    <td>18115.25 </td>
+                    <td>18115 </td>
+                    <td>Port </td>
+                    <td>1 </td>
+
+                    <td>13 Year </td>
+                    <td>Non Medical </td>
+                    <td>Zone-3 </td>
+                    <td>Anju </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>02 </td>
+                    <td>Login </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-10 11:11:22 </td>
+                    <td>none/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/ </td>
+                    <td>2023-05-26 </td>
+                    <td>2024-05-25 </td>
+                    <td>Direct </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">4</td>
+                    <td>P/161130/01/2024/022207 </td>
+                    <td>90069094 </td>
+
+                    <td>Shivendra Nath</td>
+                    <td>9971882244 </td>
+
+                    <td></td>
+                    <td>shivendranath80@gmail.com </td>
+                    <td>Ghaziabad </td>
+                    <td>1979-01-01 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Comprehensive Plan </td>
+                    <td>Individual </td>
+                    <td>1 </td>
+                    <td>500000 </td>
+                    <td>2023-05-01 18:01:59 </td>
+
+                    <td>9529 </td>
+                    <td>8075.34 </td>
+                    <td>8075 </td>
+                    <td>Fresh </td>
+                    <td>1 </td>
+
+                    <td></td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Sukhvinder-10335 </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Data1 </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-10 11:16:27 </td>
+                    <td>NA/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/ </td>
+                    <td>2023-05-01 </td>
+                    <td>2024-04-30 </td>
+                    <td>Fresh </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">5</td>
+                    <td>P/161130/01/2024/022628 </td>
+                    <td>90080581 </td>
+
+                    <td>Lalit Kumar Vats</td>
+                    <td>9728923206 </td>
+
+                    <td>9728923206  </td>
+                    <td>Lalit.vats77@gmail.com </td>
+                    <td>Jhajjar </td>
+                    <td>1977-10-15 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Health Assure </td>
+                    <td>Floater </td>
+                    <td>4 </td>
+                    <td>500000 </td>
+                    <td>2023-05-02 11:38:24 </td>
+
+                    <td>19676.00 </td>
+                    <td>16674.58 </td>
+                    <td>16675 </td>
+                    <td>Port </td>
+                    <td>1 </td>
+
+                    <td>2 Year </td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Anju </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>02 </td>
+                    <td>Login </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-10 11:21:21 </td>
+                    <td>none/none/none/none/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/None/None/None/ </td>
+                    <td>2023-05-24 </td>
+                    <td>2024-05-23 </td>
+                    <td>AU Small Finance bank  </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">6</td>
+                    <td>P/161130/01/2024/022696 </td>
+                    <td>90081453 </td>
+
+                    <td>NIKHIL SHARMA</td>
+                    <td>9958684777 </td>
+
+                    <td></td>
+                    <td>er.nikkysham@gmail.com </td>
+                    <td>Panipat </td>
+                    <td>1989-07-03 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Health Assure </td>
+                    <td>Floater </td>
+                    <td>2 </td>
+                    <td>500000 </td>
+                    <td>2023-05-02 11:51:40 </td>
+
+                    <td>37235.00 </td>
+                    <td>31555.08 </td>
+                    <td>31555 </td>
+                    <td>Port </td>
+                    <td>1 </td>
+
+                    <td>1 Year </td>
+                    <td>Non Medical </td>
+                    <td>Zone-3 </td>
+                    <td>Raj-10626 </td>
+                    <td> </td>
+                    <td>Seema10011 </td>
+                    <td>Data3 </td>
+                    <td>Login </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-10 11:26:51 </td>
+                    <td>na/na/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>NONE/NONE/ </td>
+                    <td>2023-05-11 </td>
+                    <td>2024-05-10 </td>
+                    <td>policy bazaar  </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">7</td>
+                    <td>P/161130/01/2024/024621 </td>
+                    <td>90095524 </td>
+
+                    <td>ANUJ PRAKASH VARSHNEY</td>
+                    <td>9582255264 </td>
+
+                    <td>9582255264 </td>
+                    <td>anuj_varshney11@yahoo.com </td>
+                    <td>Agra </td>
+                    <td>1983-10-02 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Super Surplus Gold </td>
+                    <td>Floater </td>
+                    <td>4 </td>
+                    <td>1000000 </td>
+                    <td>2023-05-02 15:34:51 </td>
+
+                    <td>5304.00 </td>
+                    <td>4494.92 </td>
+                    <td>4495 </td>
+                    <td>Fresh </td>
+                    <td>1 </td>
+
+                    <td></td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Sumit-10759 </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Data1 </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-10 11:33:34 </td>
+                    <td>na/na/na/Covid in month of 2020 Hospitalization 20-Day's / </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/None/None/None/ </td>
+                    <td>2023-05-02 </td>
+                    <td>2024-05-01 </td>
+                    <td>Fresh </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">8</td>
+                    <td>33190650202300 </td>
+                    <td>90099922 </td>
+
+                    <td>Anand Singh</td>
+                    <td>7838665655 </td>
+
+                    <td></td>
+                    <td>anand4u18@gmail.com </td>
+                    <td>Allahabad </td>
+                    <td>1982-06-28 </td>
+                    <td> </td>
+
+                    <td>Reassure Bronze </td>
+                    <td>Floater </td>
+                    <td>3 </td>
+                    <td>1000000 </td>
+                    <td>2023-05-02 16:30:24 </td>
+
+                    <td>19005.00 </td>
+                    <td>16105.93 </td>
+                    <td>16106 </td>
+                    <td>Port </td>
+                    <td>1 </td>
+
+                    <td>4 Year </td>
+                    <td>Non Medical </td>
+                    <td>Zone-2 </td>
+                    <td>Aman-10427 </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>02 </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-09 13:45:57 </td>
+                    <td>Na/C Section/Hypo Thyroid, Piles Operated in 2019 and Hospitalised for Medicine Reaction for 1 Day in 2018/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/None/None/ </td>
+                    <td>2023-05-12 </td>
+                    <td>2024-05-11 </td>
+                    <td>Direct </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">9</td>
+                    <td>33188841202300 </td>
+                    <td>90102842 </td>
+
+                    <td>MR MAYANK SINGH THAKUR</td>
+                    <td>8817001555 </td>
+
+                    <td>9770780019 </td>
+                    <td>singhmayank858@gamil.com </td>
+                    <td>Jabalpur </td>
+                    <td>1989-12-01 </td>
+                    <td> </td>
+
+                    <td>REASSURE </td>
+                    <td>Floater </td>
+                    <td>2 </td>
+                    <td>1000000 </td>
+                    <td>2023-05-02 17:03:55 </td>
+
+                    <td>13644.00 </td>
+                    <td>11562.71 </td>
+                    <td>11563 </td>
+                    <td>Port </td>
+                    <td>1 </td>
+
+                    <td>3 Year </td>
+                    <td>Non Medical </td>
+                    <td>Zone-2 </td>
+                    <td>Somesh-10712 </td>
+                    <td> </td>
+                    <td>Seema10011 </td>
+                    <td>02 </td>
+                    <td>Pending </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-12 00:55:37 </td>
+                    <td>NA/NA / </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/None/ </td>
+                    <td>2023-05-17 </td>
+                    <td>2024-05-16 </td>
+                    <td>Direct </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">10</td>
+                    <td>P/161130/01/2024/023764 </td>
+                    <td>90110416 </td>
+
+                    <td>Swaraj Paul</td>
+                    <td>9864141988 </td>
+
+                    <td></td>
+                    <td>SWARAJ.PAUL14@Gmail.com </td>
+                    <td>Kamrup </td>
+                    <td>1981-06-11 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Comprehensive Plan </td>
+                    <td>Floater </td>
+                    <td>3 </td>
+                    <td>500000 </td>
+                    <td>2023-05-02 18:54:46 </td>
+
+                    <td>16922.00 </td>
+                    <td>14340.68 </td>
+                    <td>14341 </td>
+                    <td>Port </td>
+                    <td>1 </td>
+
+                    <td>5 Year </td>
+                    <td>Non Medical </td>
+                    <td>Zone-2 </td>
+                    <td>Ishwar-10625 </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>02 </td>
+                    <td>Login </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-10 11:36:37 </td>
+                    <td>NA/NA/NA/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/None/None/ </td>
+                    <td>2023-06-22 </td>
+                    <td>2024-06-21 </td>
+                    <td>Agent  </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">11</td>
+                    <td>33188301202300 </td>
+                    <td>90114358 </td>
+
+                    <td>AVADHESH GUPTA </td>
+                    <td>9811473469 </td>
+
+                    <td></td>
+                    <td>AVIATOR_AVI@YAHOO.CO.IN </td>
+                    <td>Ahmedabad </td>
+                    <td>1985-04-30 </td>
+                    <td> </td>
+
+                    <td>Reassure Platinum </td>
+                    <td>Floater </td>
+                    <td>3 </td>
+                    <td>1000000 </td>
+                    <td>2023-05-03 10:38:50 </td>
+
+                    <td>27022.00 </td>
+                    <td>22900.00 </td>
+                    <td>22900 </td>
+                    <td>Port </td>
+                    <td>1 </td>
+
+                    <td>6 Year </td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Shubham-10450 </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Niva </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-12 00:50:20 </td>
+                    <td>na/na/Diabetes  On Tablet/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/None/None/ </td>
+                    <td>2023-05-21 </td>
+                    <td>2024-05-20 </td>
+                    <td>Agent  </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">12</td>
+                    <td>65488272 </td>
+                    <td>90114824 </td>
+
+                    <td>Sandeep Kumar Agarwal</td>
+                    <td>9811285449 </td>
+
+                    <td>8383923692 </td>
+                    <td>sandeep.agrawal236@rediffmail.com </td>
+                    <td>Ghaziabad </td>
+                    <td>1973-06-30 </td>
+                    <td> </td>
+
+                    <td>CARE SUPREME </td>
+                    <td>Floater </td>
+                    <td>4 </td>
+                    <td>1000000 </td>
+                    <td>2023-05-03 10:44:21 </td>
+
+                    <td>32062.00 </td>
+                    <td>27171.19 </td>
+                    <td>21737 </td>
+                    <td>Port </td>
+                    <td>1 </td>
+
+                    <td>9 Year </td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Ramniwas-10457 </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Niva </td>
+                    <td>Login </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-09 14:20:44 </td>
+                    <td>na/na/na/na/ </td>
+                    <td>1359 </td>
+                    <td></td>
+                    <td>None/None/Thyroid-2001-Thyronorm-50 mcg/None/ </td>
+                    <td>2023-05-13 </td>
+                    <td>2024-05-12 </td>
+                    <td>Agent  </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">13</td>
+                    <td>P/161130/01/2024/023132 </td>
+                    <td>90115028 </td>
+
+                    <td>Sushant Ranjan</td>
+                    <td>9960938612 </td>
+
+                    <td>9960938612 </td>
+                    <td>sharpesushant@gmail.com </td>
+                    <td>Patna </td>
+                    <td>1993-02-21 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Health Assure </td>
+                    <td>Floater </td>
+                    <td>2 </td>
+                    <td>500000 </td>
+                    <td>2023-05-03 10:47:21 </td>
+
+                    <td>37235.00 </td>
+                    <td>31555.08 </td>
+                    <td>31555 </td>
+                    <td>Fresh </td>
+                    <td>1 </td>
+
+                    <td></td>
+                    <td>Non Medical </td>
+                    <td>Zone-3 </td>
+                    <td>Ruchi-10684 </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Data1 </td>
+                    <td>Login </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-10 11:46:42 </td>
+                    <td>no/no/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/None/ </td>
+                    <td>2023-05-03 </td>
+                    <td>2024-05-02 </td>
+                    <td>Fresh </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">14</td>
+                    <td>P/161130/01/2024/023133 </td>
+                    <td>90122654 </td>
+
+                    <td>Nivendra kumar</td>
+                    <td>7838650671 </td>
+
+                    <td></td>
+                    <td>nivendrakumar1@gmail.com </td>
+                    <td>Jyotiba </td>
+                    <td>1988-12-25 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Young Star Silver </td>
+                    <td>Floater </td>
+                    <td>3 </td>
+                    <td>500000 </td>
+                    <td>2023-05-03 12:36:41 </td>
+
+                    <td>12213.00 </td>
+                    <td>10350.00 </td>
+                    <td>10350 </td>
+                    <td>Fresh </td>
+                    <td>1 </td>
+
+                    <td></td>
+                    <td>Non Medical </td>
+                    <td>Zone-3 </td>
+                    <td>Salman-10651 </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Data3 </td>
+                    <td>Login </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-10 12:01:59 </td>
+                    <td>n/a/Rekha : Dengue in Oct-2021 Hospitalization/n/a/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/C-Section
+/None/ </td>
+                    <td>2023-05-03 </td>
+                    <td>2024-05-02 </td>
+                    <td>Fresh </td>
+                    <td>Policy issued </td>
+                </tr>
+                        <tr>
+                    <td id="count">15</td>
+                    <td>P/161130/01/2024/023228 </td>
+                    <td>90131737 </td>
+
+                    <td>DR VAISHALI</td>
+                    <td>9742192500 </td>
+
+                    <td></td>
+                    <td>DRURAJ1982@GMAIL.COM </td>
+                    <td>Bidar </td>
+                    <td>1982-09-21 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Health Assure </td>
+                    <td>Floater </td>
+                    <td>3 </td>
+                    <td>1000000 </td>
+                    <td>2023-05-03 14:47:33 </td>
+
+                    <td>22683.00 </td>
+                    <td>19222.88 </td>
+                    <td>19223 </td>
+                    <td>Fresh </td>
+                    <td>1 </td>
+
+                    <td></td>
+                    <td>Non Medical </td>
+                    <td>Zone-3 </td>
+                    <td>Amit-10722 </td>
+                    <td> </td>
+                    <td>Seema10011 </td>
+                    <td>Data1 </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-10 13:19:51 </td>
+                    <td>NA/NA/C SECTION/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/None/None/ </td>
+                    <td>2023-05-03 </td>
+                    <td>2024-05-02 </td>
+                    <td>Fresh </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">16</td>
+                    <td>P/161130/01/2024/025838 </td>
+                    <td>90144285 </td>
+
+                    <td>AJAY SHIDARDI</td>
+                    <td>7218293042 </td>
+
+                    <td></td>
+                    <td>ajushidardi@gmail.com </td>
+                    <td>Nanded </td>
+                    <td>1997-09-30 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Comprehensive Plan </td>
+                    <td>Individual </td>
+                    <td>1 </td>
+                    <td>500000 </td>
+                    <td>2023-05-03 17:15:11 </td>
+
+                    <td>8278.00 </td>
+                    <td>7015.25 </td>
+                    <td>7015 </td>
+                    <td>Port </td>
+                    <td>1 </td>
+
+                    <td>1 Year </td>
+                    <td>Non Medical </td>
+                    <td>Zone-3 </td>
+                    <td>Neha-10645 </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>02 </td>
+                    <td>Login </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-19 11:04:41 </td>
+                    <td>No/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/ </td>
+                    <td>2023-06-08 </td>
+                    <td>2024-06-07 </td>
+                    <td>policy bazaar  </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">17</td>
+                    <td>P/161130/01/2024/023298 </td>
+                    <td>90145639 </td>
+
+                    <td>Parvesh kumar juneja</td>
+                    <td>9811128478 </td>
+
+                    <td></td>
+                    <td>Parveshjuneja96@gmail.com </td>
+                    <td>Delhi </td>
+                    <td>1976-08-23 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Comprehensive Plan </td>
+                    <td>Floater </td>
+                    <td>3 </td>
+                    <td>500000 </td>
+                    <td>2023-05-03 17:32:11 </td>
+
+                    <td>27777.00 </td>
+                    <td>23539.83 </td>
+                    <td>23540 </td>
+                    <td>Port </td>
+                    <td>1 </td>
+
+                    <td>8 Year </td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Ramniwas-10457 </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Data3 </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-10 14:06:49 </td>
+                    <td>NA/NA/NA/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/None/None/ </td>
+                    <td>2023-05-20 </td>
+                    <td>2024-05-19 </td>
+                    <td>Agent  </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">18</td>
+                    <td>P/161130/01/2024/027579 </td>
+                    <td>90152892 </td>
+
+                    <td>JANARDHAN HARIBHAU KALAN</td>
+                    <td>9619449222 </td>
+
+                    <td></td>
+                    <td>rushikeshkalan12@gmail.com </td>
+                    <td>Mumbai </td>
+                    <td>1969-04-10 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Comprehensive Plan </td>
+                    <td>Floater </td>
+                    <td>2 </td>
+                    <td>500000 </td>
+                    <td>2023-05-03 19:05:00 </td>
+
+                    <td>27895.00 </td>
+                    <td>23639.83 </td>
+                    <td>23640 </td>
+                    <td>Port </td>
+                    <td>1 </td>
+
+                    <td>1 Year </td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Manish-10745 </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Data1 </td>
+                    <td>Login </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-19 11:09:26 </td>
+                    <td>Hypothyroid On Tablet , Varicose Veins Surgery Done In November 2022 No Treatment Pending, No Impending Surgery 
+/BP AND DIABETES ON TABLET / </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/None/ </td>
+                    <td>2023-05-07 </td>
+                    <td>2024-05-06 </td>
+                    <td>Agent  </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">19</td>
+                    <td>P/161130/01/2024/022784 </td>
+                    <td>90152989 </td>
+
+                    <td>ANIRUDH GUSAIN</td>
+                    <td>8377087800 </td>
+
+                    <td>000 </td>
+                    <td>Anirudh.GUSAIN@GMAIL.COM </td>
+                    <td>Delhi </td>
+                    <td>1990-10-01 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Young Star Silver </td>
+                    <td>Individual </td>
+                    <td>1 </td>
+                    <td>500000 </td>
+                    <td>2023-05-03 19:06:15 </td>
+
+                    <td>5912.00 </td>
+                    <td>5010.17 </td>
+                    <td>5010 </td>
+                    <td>Fresh </td>
+                    <td>1 </td>
+
+                    <td></td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Subhan-10634 </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Data3 </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-10 14:16:25 </td>
+                    <td>covid home quarantine 2020/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/ </td>
+                    <td>2023-05-03 </td>
+                    <td>2024-05-02 </td>
+                    <td>Fresh </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">20</td>
+                    <td>P/161130/01/2024/023741 </td>
+                    <td>90154990 </td>
+
+                    <td>Praveen dhyani</td>
+                    <td>8802632952 </td>
+
+                    <td>88026 32952 </td>
+                    <td>praveendhyani810@gmail.com </td>
+                    <td>Noida </td>
+                    <td>1988-03-19 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Comprehensive Plan </td>
+                    <td>Floater </td>
+                    <td>3 </td>
+                    <td>500000 </td>
+                    <td>2023-05-04 10:32:19 </td>
+
+                    <td>15541.00 </td>
+                    <td>13170.34 </td>
+                    <td>13170 </td>
+                    <td>Fresh </td>
+                    <td>1 </td>
+
+                    <td></td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Prashant-10374 </td>
+                    <td> </td>
+                    <td>Seema10011 </td>
+                    <td>Data3 </td>
+                    <td>Login </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-10 14:20:24 </td>
+                    <td>na/na/na/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/None/None/ </td>
+                    <td>2023-05-04 </td>
+                    <td>2024-05-03 </td>
+                    <td>Fresh </td>
+                    <td>Policy  Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">21</td>
+                    <td>P/161130/01/2024/024353 </td>
+                    <td>90158214 </td>
+
+                    <td>Sandeep Kumar </td>
+                    <td>9953590986 </td>
+
+                    <td></td>
+                    <td>sandeeptowin@gmail.com </td>
+                    <td>Delhi </td>
+                    <td>1979-05-02 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Comprehensive Plan </td>
+                    <td>Floater </td>
+                    <td>5 </td>
+                    <td>750000 </td>
+                    <td>2023-05-04 11:06:21 </td>
+
+                    <td>27116.00 </td>
+                    <td>22979.66 </td>
+                    <td>22980 </td>
+                    <td>Port </td>
+                    <td>1 </td>
+
+                    <td>3 Year </td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Reema </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Data1 </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-10 14:47:39 </td>
+                    <td>na/na/na/typhoid /na/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>none/None/none/None/None/ </td>
+                    <td>2023-05-08 </td>
+                    <td>2024-05-07 </td>
+                    <td>Agent  </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">22</td>
+                    <td>P/161130/01/2024/025584 </td>
+                    <td>90163719 </td>
+
+                    <td>SANDHYA SUDHIR WATE</td>
+                    <td>9619483796 </td>
+
+                    <td>9619483796 </td>
+                    <td>wateavinash@gmail.com </td>
+                    <td>Yavatmal </td>
+                    <td>1957-01-14 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Health Assure </td>
+                    <td>Individual </td>
+                    <td>1 </td>
+                    <td>500000 </td>
+                    <td>2023-05-04 12:16:39 </td>
+
+                    <td>27759.00 </td>
+                    <td>23524.58 </td>
+                    <td>23525 </td>
+                    <td>Port </td>
+                    <td>1 </td>
+
+                    <td>5 Year </td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Jatin-10739 </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Data3 </td>
+                    <td>Login </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-19 11:14:09 </td>
+                    <td>CATRACT OPT DONE BOTH EYES 2022/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/ </td>
+                    <td>2023-05-27 </td>
+                    <td>2024-05-26 </td>
+                    <td>Web Sales </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">23</td>
+                    <td>P/161130/01/2024/023888 </td>
+                    <td>90168197 </td>
+
+                    <td>Dr.Budharatna Govindrao Bhaware</td>
+                    <td>9822620421 </td>
+
+                    <td>9307672764  </td>
+                    <td>bgbhaware.pfz@gmail.com </td>
+                    <td>Raigad </td>
+                    <td>1983-07-01 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Young Star Silver </td>
+                    <td>Floater </td>
+                    <td>3 </td>
+                    <td>1000000 </td>
+                    <td>2023-05-04 13:12:57 </td>
+
+                    <td>18750.00 </td>
+                    <td>15889.83 </td>
+                    <td>15890 </td>
+                    <td>Fresh </td>
+                    <td>1 </td>
+
+                    <td></td>
+                    <td>Non Medical </td>
+                    <td>Zone-3 </td>
+                    <td>Somesh-10712 </td>
+                    <td> </td>
+                    <td>Seema10011 </td>
+                    <td>Reference </td>
+                    <td>Login </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-10 14:58:55 </td>
+                    <td>NA/wife - c section delivery/NA / </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/None/None/ </td>
+                    <td>2023-05-04 </td>
+                    <td>2024-05-03 </td>
+                    <td>Fresh </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">24</td>
+                    <td>P/161130/01/2024/023254 </td>
+                    <td>90172163 </td>
+
+                    <td>Karan Veer Singh</td>
+                    <td>9915930304 </td>
+
+                    <td></td>
+                    <td>accakaransingh@gmail.com </td>
+                    <td>Hyderabad </td>
+                    <td>1992-05-06 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Health Assure </td>
+                    <td>Floater </td>
+                    <td>2 </td>
+                    <td>500000 </td>
+                    <td>2023-05-04 14:15:00 </td>
+
+                    <td>12930.00 </td>
+                    <td>10957.63 </td>
+                    <td>10958 </td>
+                    <td>Fresh </td>
+                    <td>1 </td>
+
+                    <td>NA </td>
+                    <td>Non Medical </td>
+                    <td>Zone-2 </td>
+                    <td>Vishal-10369 </td>
+                    <td> </td>
+                    <td>Seema10011 </td>
+                    <td>Data1 </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-10 15:14:04 </td>
+                    <td>NA/NA/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/None/ </td>
+                    <td>2023-05-04 </td>
+                    <td>2024-05-03 </td>
+                    <td>Fresh </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">25</td>
+                    <td>P/161130/01/2024/023879 </td>
+                    <td>90181292 </td>
+
+                    <td>Ashish Vijay Dube</td>
+                    <td>8291070780 </td>
+
+                    <td></td>
+                    <td>adube1978@gmail.com </td>
+                    <td>Thane </td>
+                    <td>1978-04-25 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Comprehensive Plan </td>
+                    <td>Floater </td>
+                    <td>3 </td>
+                    <td>500000 </td>
+                    <td>2023-05-04 16:01:21 </td>
+
+                    <td>16921.00 </td>
+                    <td>14339.83 </td>
+                    <td>14340 </td>
+                    <td>Port </td>
+                    <td>1 </td>
+
+                    <td>8 Year </td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Neha-10645 </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Data3 </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-10 15:26:44 </td>
+                    <td>na/na/na/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/None/None/ </td>
+                    <td>2023-05-08 </td>
+                    <td>2024-05-07 </td>
+                    <td>policy bazaar  </td>
+                    <td>policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">26</td>
+                    <td>33192657202300 </td>
+                    <td>90187720 </td>
+
+                    <td>UDAY KUMAR</td>
+                    <td>9910674746 </td>
+
+                    <td></td>
+                    <td>Uday.Upvc@gmail.com </td>
+                    <td>Delhi </td>
+                    <td>1990-09-07 </td>
+                    <td> </td>
+
+                    <td>Reassure Titanium </td>
+                    <td>Floater </td>
+                    <td>3 </td>
+                    <td>1000000 </td>
+                    <td>2023-05-04 17:15:24 </td>
+
+                    <td>24070.00 </td>
+                    <td>20398.31 </td>
+                    <td>20398 </td>
+                    <td>Fresh </td>
+                    <td>1 </td>
+
+                    <td></td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Pooja-10466 </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Niva </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-18 01:17:43 </td>
+                    <td>no/no/no/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/None/None/ </td>
+                    <td>2023-05-06 </td>
+                    <td>2024-05-05 </td>
+                    <td>Fresh </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">27</td>
+                    <td>P/161130/01/2024/025181 </td>
+                    <td>90193828 </td>
+
+                    <td>Santosh chandrakant Koli</td>
+                    <td>9049981350 </td>
+
+                    <td></td>
+                    <td>Varunraje2007@gmail.com </td>
+                    <td>Kolhapur </td>
+                    <td>1980-06-23 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Comprehensive Plan </td>
+                    <td>Floater </td>
+                    <td>4 </td>
+                    <td>500000 </td>
+                    <td>2023-05-04 18:47:59 </td>
+
+                    <td>19364.00 </td>
+                    <td>16410.17 </td>
+                    <td>16410 </td>
+                    <td>Fresh </td>
+                    <td>1 </td>
+
+                    <td></td>
+                    <td>Non Medical </td>
+                    <td>Zone-3 </td>
+                    <td>Vishakha </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Data3 </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-10 15:43:12 </td>
+                    <td>Na/Na/C section /na/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>none/None/None/None/ </td>
+                    <td>2023-05-04 </td>
+                    <td>2024-05-03 </td>
+                    <td>Fresh </td>
+                    <td>policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">28</td>
+                    <td>33188854202300 </td>
+                    <td>90195905 </td>
+
+                    <td>Meet Prafulchandra Mehta</td>
+                    <td>8976199748 </td>
+
+                    <td>9137708834 </td>
+                    <td>meet525mehta@gmail.com </td>
+                    <td>Raigarh </td>
+                    <td>1965-04-14 </td>
+                    <td> </td>
+
+                    <td>REASSURE </td>
+                    <td>Individual </td>
+                    <td>1 </td>
+                    <td>750000 </td>
+                    <td>2023-05-04 19:19:30 </td>
+
+                    <td>24668.00 </td>
+                    <td>20905.08 </td>
+                    <td>20905 </td>
+                    <td>Port </td>
+                    <td>1 </td>
+
+                    <td>1 Year </td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Nikhil-10548 </td>
+                    <td> </td>
+                    <td>Seema10011 </td>
+                    <td>Reference </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-12 01:14:49 </td>
+                    <td>na/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>none/ </td>
+                    <td>2023-05-05 </td>
+                    <td>2024-05-04 </td>
+                    <td>DIGIT DIRECT </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">29</td>
+                    <td>P/161130/01/2024/023512 </td>
+                    <td>90196884 </td>
+
+                    <td>Ravi Kumar </td>
+                    <td>8368491468 </td>
+
+                    <td></td>
+                    <td>rk338145@gmail.com </td>
+                    <td>Hathras </td>
+                    <td>1990-12-18 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Health Assure </td>
+                    <td>Floater </td>
+                    <td>3 </td>
+                    <td>1000000 </td>
+                    <td>2023-05-05 10:12:47 </td>
+
+                    <td>20144.00 </td>
+                    <td>17071.19 </td>
+                    <td>17071 </td>
+                    <td>Fresh </td>
+                    <td>1 </td>
+
+                    <td></td>
+                    <td>Non Medical </td>
+                    <td>Zone-3 </td>
+                    <td>Anjali-10142 </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Data1 </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-10 16:41:35 </td>
+                    <td>NA/NA/NA/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>none/none/none/ </td>
+                    <td>2023-05-04 </td>
+                    <td>2024-05-03 </td>
+                    <td>Fresh </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">30</td>
+                    <td>P/161130/01/2024/023460 </td>
+                    <td>90202061 </td>
+
+                    <td>Saurav kumar </td>
+                    <td>9457847503 </td>
+
+                    <td>7717727778  </td>
+                    <td>sridurga.lyf@gmail.com </td>
+                    <td>Champaran </td>
+                    <td>1996-01-02 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Health Assure </td>
+                    <td>Floater </td>
+                    <td>3 </td>
+                    <td>500000 </td>
+                    <td>2023-05-05 11:16:05 </td>
+
+                    <td>14652.00 </td>
+                    <td>12416.95 </td>
+                    <td>12417 </td>
+                    <td>Fresh </td>
+                    <td>1 </td>
+
+                    <td></td>
+                    <td>Non Medical </td>
+                    <td>Zone-3 </td>
+                    <td>Deepak Arora </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Data3 </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-10 16:51:56 </td>
+                    <td>NA/NA/NA/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>none/none/none/ </td>
+                    <td>2023-05-04 </td>
+                    <td>2024-05-03 </td>
+                    <td>Fresh </td>
+                    <td>policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">31</td>
+                    <td>P/161130/01/2024/025818 </td>
+                    <td>90204210 </td>
+
+                    <td>Nandeesh T Baddi </td>
+                    <td>9964205408 </td>
+
+                    <td>9538883936 </td>
+                    <td>Finance@aquasafi.in </td>
+                    <td>Dharwad </td>
+                    <td>1997-07-16 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Young Star Silver </td>
+                    <td>Individual </td>
+                    <td>1 </td>
+                    <td>500000 </td>
+                    <td>2023-05-05 11:42:51 </td>
+
+                    <td>5375.00 </td>
+                    <td>4555.08 </td>
+                    <td>4555 </td>
+                    <td>Fresh </td>
+                    <td>1 </td>
+
+                    <td></td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Anju </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Data1 </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-19 11:19:36 </td>
+                    <td>none/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/ </td>
+                    <td>2023-05-04 </td>
+                    <td>2024-05-03 </td>
+                    <td>Fresh </td>
+                    <td>Policy Issued </td>
+                </tr>
+                        <tr>
+                    <td id="count">32</td>
+                    <td>P/161130/01/2024/024340 </td>
+                    <td>90204593 </td>
+
+                    <td>Reyanth Somanna</td>
+                    <td>7676602637 </td>
+
+                    <td>7676602637 </td>
+                    <td>reyanth007@gmail.com </td>
+                    <td>Karnataka </td>
+                    <td>1998-04-20 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Health Assure </td>
+                    <td>Individual </td>
+                    <td>1 </td>
+                    <td>500000 </td>
+                    <td>2023-05-05 11:47:52 </td>
+
+                    <td>6901.00 </td>
+                    <td>5848.31 </td>
+                    <td>5848 </td>
+                    <td>Fresh </td>
+                    <td>1 </td>
+
+                    <td></td>
+                    <td>Non Medical </td>
+                    <td>Zone-3 </td>
+                    <td>Jatin-10739 </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Data3 </td>
+                    <td>Login </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-10 17:24:23 </td>
+                    <td>na/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/ </td>
+                    <td>2023-05-05 </td>
+                    <td>2024-05-04 </td>
+                    <td>Fresh </td>
+                    <td>policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">33</td>
+                    <td>P/161130/01/2024/025265 </td>
+                    <td>90204644 </td>
+
+                    <td>Mallikarjuna V</td>
+                    <td>9964205408 </td>
+
+                    <td>9538883936 </td>
+                    <td>Finance@aquasafi.in </td>
+                    <td>Dharwad </td>
+                    <td>1994-01-01 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Young Star Silver </td>
+                    <td>Individual </td>
+                    <td>1 </td>
+                    <td>500000 </td>
+                    <td>2023-05-05 11:48:37 </td>
+
+                    <td>5375.00 </td>
+                    <td>4555.08 </td>
+                    <td>4555 </td>
+                    <td>Fresh </td>
+                    <td>1 </td>
+
+                    <td></td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Anju </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Data1 </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-10 17:20:31 </td>
+                    <td>none/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/ </td>
+                    <td>2023-05-04 </td>
+                    <td>2024-05-03 </td>
+                    <td>Fresh </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">34</td>
+                    <td>P/161130/01/2024/025822 </td>
+                    <td>90204993 </td>
+
+                    <td>Lokesh B C </td>
+                    <td>9964205408 </td>
+
+                    <td>9538883936 </td>
+                    <td>Finance@aquasafi.in </td>
+                    <td>Dharwad </td>
+                    <td>1980-07-13 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Comprehensive Plan </td>
+                    <td>Individual </td>
+                    <td>1 </td>
+                    <td>500000 </td>
+                    <td>2023-05-05 11:52:37 </td>
+
+                    <td>9529.00 </td>
+                    <td>8075.42 </td>
+                    <td>8075 </td>
+                    <td>Fresh </td>
+                    <td>1 </td>
+
+                    <td></td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Anju </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Data1 </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-19 11:21:38 </td>
+                    <td>none / </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/ </td>
+                    <td>2023-05-04 </td>
+                    <td>2024-05-03 </td>
+                    <td>Fresh </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">35</td>
+                    <td>65754716 </td>
+                    <td>90209221 </td>
+
+                    <td>Anterpreet Singh Parhar </td>
+                    <td>9718262077 </td>
+
+                    <td></td>
+                    <td>ANTERPREETSINGH@REDIFFMAIL.COM </td>
+                    <td>Gurgaon </td>
+                    <td>1985-12-16 </td>
+                    <td> </td>
+
+                    <td>CARE WITH SUPER NCB </td>
+                    <td>Individual </td>
+                    <td>1 </td>
+                    <td>1500000 </td>
+                    <td>2023-05-05 12:46:40 </td>
+
+                    <td>15911.00 </td>
+                    <td>13483.90 </td>
+                    <td>13484 </td>
+                    <td>Port </td>
+                    <td>1 </td>
+
+                    <td>5 Year </td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Reema </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>02 </td>
+                    <td>Login </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-17 08:26:01 </td>
+                    <td>na/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None / </td>
+                    <td>2023-05-31 </td>
+                    <td>2024-05-30 </td>
+                    <td>AMERICAN EXPRESS BANKING CORP </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">36</td>
+                    <td>65637670 </td>
+                    <td>90210459 </td>
+
+                    <td> Vishal Kashinath Naik </td>
+                    <td>9820490967 </td>
+
+                    <td>9820490967 </td>
+                    <td>vishal.naik@hotmail.com </td>
+                    <td>Mumbai </td>
+                    <td>1982-10-08 </td>
+                    <td> </td>
+
+                    <td>CARE SUPREME </td>
+                    <td>Floater </td>
+                    <td>4 </td>
+                    <td>1000000 </td>
+                    <td>2023-05-05 13:01:25 </td>
+
+                    <td>24203.00 </td>
+                    <td>20511.02 </td>
+                    <td>20511 </td>
+                    <td>Port </td>
+                    <td>1 </td>
+
+                    <td>4 Year </td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Sukhvinder-10335 </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Data3 </td>
+                    <td></td>
+                    <td>Enforeced </td>
+                    <td>2023-05-09 14:16:26 </td>
+                    <td>NA/NA/NA/Dengue / </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/None/None/None / </td>
+                    <td>2023-06-02 </td>
+                    <td>2024-06-01 </td>
+                    <td>Agent  </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">37</td>
+                    <td>P/161130/01/2024/023724 </td>
+                    <td>90212801 </td>
+
+                    <td>Aman Singh</td>
+                    <td>8126272022 </td>
+
+                    <td></td>
+                    <td>singhaman9027@gmail.com </td>
+                    <td>Pune </td>
+                    <td>1997-02-18 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Young Star Silver </td>
+                    <td>Individual </td>
+                    <td>1 </td>
+                    <td>1000000 </td>
+                    <td>2023-05-05 13:29:57 </td>
+
+                    <td>7133.00 </td>
+                    <td>6044.92 </td>
+                    <td>6045 </td>
+                    <td>Fresh </td>
+                    <td>1 </td>
+
+                    <td></td>
+                    <td>Non Medical </td>
+                    <td>Zone-2 </td>
+                    <td>Sukhvinder-10335 </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>02 </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-10 17:39:04 </td>
+                    <td>NA/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/ </td>
+                    <td>2023-05-05 </td>
+                    <td>2024-05-04 </td>
+                    <td>Fresh </td>
+                    <td>policy issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">38</td>
+                    <td>P/161130/01/2024/024465 </td>
+                    <td>90218138 </td>
+
+                    <td>Sanjay Mehrotra</td>
+                    <td>9582645363 </td>
+
+                    <td>9811755363 </td>
+                    <td>sanjaymehrotra1959@gmail.com </td>
+                    <td>Noida </td>
+                    <td>1959-03-03 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Arogya Sanjeevani </td>
+                    <td>Floater </td>
+                    <td>2 </td>
+                    <td>500000 </td>
+                    <td>2023-05-05 15:12:02 </td>
+
+                    <td>29514.00 </td>
+                    <td>25011.86 </td>
+                    <td>25012 </td>
+                    <td>Fresh </td>
+                    <td>1 </td>
+
+                    <td></td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Sunita-10688 </td>
+                    <td> </td>
+                    <td>Seema10011 </td>
+                    <td>02 </td>
+                    <td>Login </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-10 17:43:33 </td>
+                    <td>NA /NA/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/None/ </td>
+                    <td>2023-05-06 </td>
+                    <td>2024-05-05 </td>
+                    <td>Fresh </td>
+                    <td>End date corrected </td>
+                </tr>
+                        <tr>
+                    <td id="count">39</td>
+                    <td>P/161130/01/2024/024539 </td>
+                    <td>90226780 </td>
+
+                    <td> Sunil Vibhuti Bharti</td>
+                    <td>9833992716 </td>
+
+                    <td>9833992716 </td>
+                    <td>Bharti.sunil786@gmail.com </td>
+                    <td>Mumbai </td>
+                    <td>1990-07-10 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Super Surplus Gold </td>
+                    <td>Individual </td>
+                    <td>1 </td>
+                    <td>10000000 </td>
+                    <td>2023-05-05 16:51:22 </td>
+
+                    <td>1705.00 </td>
+                    <td>1444.92 </td>
+                    <td>1445 </td>
+                    <td>Fresh </td>
+                    <td>1 </td>
+
+                    <td></td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Akanksha-10668 </td>
+                    <td> </td>
+                    <td>Seema10011 </td>
+                    <td>Data1 </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-10 17:56:59 </td>
+                    <td>NA/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/ </td>
+                    <td>2023-05-02 </td>
+                    <td>2024-05-01 </td>
+                    <td>Fresh </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">40</td>
+                    <td>33189904202300 </td>
+                    <td>90229038 </td>
+
+                    <td>VINOD MITTAL </td>
+                    <td>9810670723 </td>
+
+                    <td>9810670723 </td>
+                    <td>SMKALKAJI@GMAIL.COM </td>
+                    <td>Delhi </td>
+                    <td>1967-04-04 </td>
+                    <td> </td>
+
+                    <td>Reassure Bronze </td>
+                    <td>Floater </td>
+                    <td>2 </td>
+                    <td>1000000 </td>
+                    <td>2023-05-05 17:20:54 </td>
+
+                    <td>40862.00 </td>
+                    <td>34628.81 </td>
+                    <td>34629 </td>
+                    <td>Port </td>
+                    <td>1 </td>
+
+                    <td>7 Year </td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Shubham-10450 </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Niva </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-12 01:27:46 </td>
+                    <td>na/Covid Home Quarantine 1st Wave   / </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/Done/ </td>
+                    <td>2023-06-27 </td>
+                    <td>2024-06-26 </td>
+                    <td>Agent  </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">41</td>
+                    <td>33188688202300 </td>
+                    <td>90230678 </td>
+
+                    <td>Jay Mahesh Chheda</td>
+                    <td>9699996490 </td>
+
+                    <td></td>
+                    <td>jay87c@gmail.com </td>
+                    <td>Mumbai </td>
+                    <td>1987-03-24 </td>
+                    <td> </td>
+
+                    <td>HEALTH RECHARGE </td>
+                    <td>Floater </td>
+                    <td>2 </td>
+                    <td>9000000 </td>
+                    <td>2023-05-05 17:40:54 </td>
+
+                    <td>1416.00 </td>
+                    <td>1200.00 </td>
+                    <td>1200 </td>
+                    <td>Fresh </td>
+                    <td>1 </td>
+
+                    <td></td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Nikhil-10548 </td>
+                    <td> </td>
+                    <td>Seema10011 </td>
+                    <td>02 </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-18 01:22:08 </td>
+                    <td>SELF - HOME quarantine 2 YEAR back
+/SELF - HOME quarantine 2 YEAR back
+/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/None/ </td>
+                    <td>2023-05-05 </td>
+                    <td>2024-05-04 </td>
+                    <td>Fresh </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">42</td>
+                    <td>P/161130/01/2024/025489 </td>
+                    <td>90232866 </td>
+
+                    <td>Dhirendra Singh</td>
+                    <td>8058744030 </td>
+
+                    <td>8058744030 </td>
+                    <td>dhirendra.hr@gmail.com </td>
+                    <td>Alwar </td>
+                    <td>1979-04-03 </td>
+                    <td>STAR HEALTH </td>
+
+                    <td>Health Assure </td>
+                    <td>Floater </td>
+                    <td>4 </td>
+                    <td>500000 </td>
+                    <td>2023-05-05 18:05:55 </td>
+
+                    <td>37383.00 </td>
+                    <td>31680.51 </td>
+                    <td>25344 </td>
+                    <td>Port </td>
+                    <td>2 </td>
+
+                    <td>10 Year </td>
+                    <td>Non Medical </td>
+                    <td>Zone-2 </td>
+                    <td>Kajal-10689 </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Data1 </td>
+                    <td>Login </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-10 17:59:23 </td>
+                    <td>NO PED /NO PED /NO PED /NO PED / </td>
+                    <td>1267 </td>
+                    <td></td>
+                    <td>None/None/None/None/ </td>
+                    <td>2023-06-15 </td>
+                    <td>2025-06-14 </td>
+                    <td>HDFC BANK LTD </td>
+                    <td>Policy issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">43</td>
+                    <td>65685565 </td>
+                    <td>90255938 </td>
+
+                    <td>RAMDAS VISHNU PAWAR</td>
+                    <td>9561584838 </td>
+
+                    <td></td>
+                    <td>ramdaspawar98@gmail.com </td>
+                    <td>Pune </td>
+                    <td>1990-04-30 </td>
+                    <td> </td>
+
+                    <td>CARE SUPREME </td>
+                    <td>Individual </td>
+                    <td>1 </td>
+                    <td>1000000 </td>
+                    <td>2023-05-06 13:48:52 </td>
+
+                    <td>32412.00 </td>
+                    <td>27467.80 </td>
+                    <td>21974 </td>
+                    <td>Port </td>
+                    <td>1 </td>
+
+                    <td>8 Year </td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Sahil-10363 </td>
+                    <td> </td>
+                    <td>Seema10011 </td>
+                    <td>02 </td>
+                    <td>Login </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-09 14:00:04 </td>
+                    <td>na/ </td>
+                    <td>1373 </td>
+                    <td></td>
+                    <td>NONE/ </td>
+                    <td>2023-05-22 </td>
+                    <td>2024-05-21 </td>
+                    <td>Agent  </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">44</td>
+                    <td>65689080 </td>
+                    <td>90256230 </td>
+
+                    <td>RAMDAS VISHNU PAWAR</td>
+                    <td>9561584838 </td>
+
+                    <td></td>
+                    <td>ramdaspawar98@gmail.com </td>
+                    <td>Pune </td>
+                    <td>1994-06-08 </td>
+                    <td> </td>
+
+                    <td>CARE SUPREME </td>
+                    <td>Floater </td>
+                    <td>3 </td>
+                    <td>1000000 </td>
+                    <td>2023-05-06 13:55:08 </td>
+
+                    <td>13283.00 </td>
+                    <td>11256.78 </td>
+                    <td>9005 </td>
+                    <td>Port </td>
+                    <td>1 </td>
+
+                    <td>8 Year </td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Sahil-10363 </td>
+                    <td> </td>
+                    <td>Seema10011 </td>
+                    <td>02 </td>
+                    <td>Login </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-09 14:08:54 </td>
+                    <td>NA/NA/NA/ </td>
+                    <td>563 </td>
+                    <td></td>
+                    <td>NONE/NONE/NONE/ </td>
+                    <td>2023-05-24 </td>
+                    <td>2024-05-23 </td>
+                    <td>Agent  </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">45</td>
+                    <td>33197491202300 </td>
+                    <td>90274188 </td>
+
+                    <td>Amresh Jaiswal</td>
+                    <td>9830081643 </td>
+
+                    <td>7003669818 </td>
+                    <td>amreshjswl@gmail.com </td>
+                    <td>Kolkata </td>
+                    <td>1973-01-05 </td>
+                    <td> </td>
+
+                    <td>Reassure Bronze </td>
+                    <td>Floater </td>
+                    <td>4 </td>
+                    <td>1000000 </td>
+                    <td>2023-05-06 17:57:04 </td>
+
+                    <td>32288 </td>
+                    <td>27363.81 </td>
+                    <td>21890 </td>
+                    <td>Port </td>
+                    <td>1 </td>
+
+                    <td>7 Year </td>
+                    <td>Non Medical </td>
+                    <td>Zone-2 </td>
+                    <td>Amil-10600 </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>02 </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-18 01:32:52 </td>
+                    <td>NA/NA/Ovarian Cyst Surgery Done 10 Year Back Not Pending Any Surgery , Documents Not Available 
+/Diabetes On Borderline/ </td>
+                    <td>1368 </td>
+                    <td></td>
+                    <td>None/None/None/Done/ </td>
+                    <td>2023-05-24 </td>
+                    <td>2024-05-20 </td>
+                    <td>Agent  </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">46</td>
+                    <td>33191773202300 </td>
+                    <td>90302563 </td>
+
+                    <td>P KASHINATH</td>
+                    <td>9880007360 </td>
+
+                    <td>8073970814 </td>
+                    <td>vbsplastics@gmail.com </td>
+                    <td>Bangalore </td>
+                    <td>1985-03-18 </td>
+                    <td> </td>
+
+                    <td>Reassure Bronze </td>
+                    <td>Floater </td>
+                    <td>4 </td>
+                    <td>1000000 </td>
+                    <td>2023-05-08 14:31:24 </td>
+
+                    <td>21749.00 </td>
+                    <td>18431.36 </td>
+                    <td>18431 </td>
+                    <td>Port </td>
+                    <td>1 </td>
+
+                    <td>5 Year </td>
+                    <td>Non Medical </td>
+                    <td>Zone-2 </td>
+                    <td>Aman-10427 </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>02 </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-12 04:28:54 </td>
+                    <td>Na/Na/Na/Na/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/None/None/None/ </td>
+                    <td>2023-05-25 </td>
+                    <td>2024-05-24 </td>
+                    <td>Pramukh Health Services </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">47</td>
+                    <td>33192549202300 </td>
+                    <td>90310150 </td>
+
+                    <td>ADARSH KANODIA</td>
+                    <td>9835089555 </td>
+
+                    <td>111 </td>
+                    <td>the.adarshkanodia@gmail.com </td>
+                    <td>Patna </td>
+                    <td>2000-01-29 </td>
+                    <td> </td>
+
+                    <td>REASSURE </td>
+                    <td>Individual </td>
+                    <td>1 </td>
+                    <td>750000 </td>
+                    <td>2023-05-08 15:55:58 </td>
+
+                    <td>8601.00 </td>
+                    <td>7288.98 </td>
+                    <td>7289 </td>
+                    <td>Fresh </td>
+                    <td>1 </td>
+
+                    <td></td>
+                    <td>Non Medical </td>
+                    <td>Zone-2 </td>
+                    <td>Radhika-10454 </td>
+                    <td> </td>
+                    <td>Seema10011 </td>
+                    <td>Niva </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-12 04:55:29 </td>
+                    <td>hair trasplant SURGERY/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/ </td>
+                    <td>2023-05-08 </td>
+                    <td>2024-05-07 </td>
+                    <td>Fresh </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">48</td>
+                    <td>33193820202300 </td>
+                    <td>90332048 </td>
+
+                    <td>MANISH LALWANI </td>
+                    <td>7021846912 </td>
+
+                    <td>8080519309 </td>
+                    <td>manish_lalwani_7@hotmail.com </td>
+                    <td>Mumbai </td>
+                    <td>1969-04-05 </td>
+                    <td> </td>
+
+                    <td>Reassure Bronze </td>
+                    <td>Floater </td>
+                    <td>2 </td>
+                    <td>1000000 </td>
+                    <td>2023-05-09 10:47:12 </td>
+
+                    <td>33373.00 </td>
+                    <td>28282.20 </td>
+                    <td>28282 </td>
+                    <td>Fresh </td>
+                    <td>1 </td>
+
+                    <td></td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Shubham-10450 </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Niva </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-18 01:57:33 </td>
+                    <td>na/gallbladder stone surgery done last 15 years back/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/None/ </td>
+                    <td>2023-05-09 </td>
+                    <td>2024-05-08 </td>
+                    <td>Fresh </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">49</td>
+                    <td>33196688202300 </td>
+                    <td>90381525 </td>
+
+                    <td>KOTHAPALLI SREEDHAR RAO </td>
+                    <td>9440024400 </td>
+
+                    <td></td>
+                    <td>sridharksr7@gmail.com </td>
+                    <td>Nizamabad </td>
+                    <td>1969-06-28 </td>
+                    <td> </td>
+
+                    <td>HEALTH RECHARGE </td>
+                    <td>Floater </td>
+                    <td>2 </td>
+                    <td>9000000 </td>
+                    <td>2023-05-10 10:35:43 </td>
+
+                    <td>6599.00 </td>
+                    <td>5592.37 </td>
+                    <td>5592 </td>
+                    <td>Fresh </td>
+                    <td>1 </td>
+
+                    <td></td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Shubham-10450 </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Niva </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-18 05:47:26 </td>
+                    <td>Hypothyroid/some time taking diabetes medicine  and blood pressure / </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/None/ </td>
+                    <td>2023-05-10 </td>
+                    <td>2024-05-09 </td>
+                    <td>Fresh </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">50</td>
+                    <td>65748708 </td>
+                    <td>90404985 </td>
+
+                    <td>Rajsekhar Barapanda</td>
+                    <td>9830772482 </td>
+
+                    <td></td>
+                    <td>Rajsekhar_72@yahoo.co.in </td>
+                    <td>Parganas </td>
+                    <td>1972-12-01 </td>
+                    <td> </td>
+
+                    <td>CARE SUPREME </td>
+                    <td>Floater </td>
+                    <td>3 </td>
+                    <td>1000000 </td>
+                    <td>2023-05-10 14:20:24 </td>
+
+                    <td>24093.00 </td>
+                    <td>20417.80 </td>
+                    <td>10208 </td>
+                    <td>Port </td>
+                    <td>1 </td>
+
+                    <td>11 Year </td>
+                    <td>Non Medical </td>
+                    <td>Zone-3 </td>
+                    <td>Ramniwas-10457 </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>02 </td>
+                    <td>Login </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-17 08:30:45 </td>
+                    <td>na/na/Diabities , Bp , Ligament Operation Done in 2014 , covid-19 Home quarantine in 2022/ </td>
+                    <td>2042 </td>
+                    <td></td>
+                    <td>None/None/None/ </td>
+                    <td>2023-05-12 </td>
+                    <td>2024-05-11 </td>
+                    <td>Direct </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">51</td>
+                    <td>65751750 </td>
+                    <td>90437434 </td>
+
+                    <td>DHARMENDRA KUMAR</td>
+                    <td>9910956608 </td>
+
+                    <td>8178870069 </td>
+                    <td>dksingh7719@gmail.com </td>
+                    <td>Delhi </td>
+                    <td>1977-03-25 </td>
+                    <td> </td>
+
+                    <td>CARE SUPREME </td>
+                    <td>Floater </td>
+                    <td>4 </td>
+                    <td>1000000 </td>
+                    <td>2023-05-12 02:33:15 </td>
+
+                    <td>32062.00 </td>
+                    <td>27171.19 </td>
+                    <td>27171 </td>
+                    <td>Port </td>
+                    <td>1 </td>
+
+                    <td>9 Year </td>
+                    <td>Non Medical </td>
+                    <td>Zone-1 </td>
+                    <td>Reema </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Data1 </td>
+                    <td>Login </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-17 09:00:20 </td>
+                    <td>na/na/na/na/ </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/None/None/None/ </td>
+                    <td>2023-05-20 </td>
+                    <td>2024-05-19 </td>
+                    <td>Agent  </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">52</td>
+                    <td>33198222202300 </td>
+                    <td>90459928 </td>
+
+                    <td>ANUKRITI PAREEK</td>
+                    <td>9958384602 </td>
+
+                    <td>9352568305 </td>
+                    <td>anukritipareek@gmail.com </td>
+                    <td>Jaipur </td>
+                    <td>1987-09-27 </td>
+                    <td> </td>
+
+                    <td>REASSURE </td>
+                    <td>Individual </td>
+                    <td>1 </td>
+                    <td>1000000 </td>
+                    <td>2023-05-12 07:51:46 </td>
+
+                    <td>34342.00 </td>
+                    <td>29103.39 </td>
+                    <td>29103 </td>
+                    <td>Fresh </td>
+                    <td>3 </td>
+
+                    <td></td>
+                    <td>Non Medical </td>
+                    <td>Zone-2 </td>
+                    <td>Somesh-10712 </td>
+                    <td> </td>
+                    <td>Seema10011 </td>
+                    <td>Reference </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-18 05:50:17 </td>
+                    <td>NA / </td>
+                    <td></td>
+                    <td></td>
+                    <td>None/ </td>
+                    <td>2023-05-11 </td>
+                    <td>2024-05-10 </td>
+                    <td>Fresh </td>
+                    <td>Policy Issued  </td>
+                </tr>
+                        <tr>
+                    <td id="count">53</td>
+                    <td>65773226 </td>
+                    <td>90491092 </td>
+
+                    <td>Pashupati Semwal</td>
+                    <td>9760846760 </td>
+
+                    <td></td>
+                    <td>pps72@rediffmail.com </td>
+                    <td>Rudrapur </td>
+                    <td>1972-01-18 </td>
+                    <td> </td>
+
+                    <td>CARE SUPREME </td>
+                    <td>Floater </td>
+                    <td>4 </td>
+                    <td>700000 </td>
+                    <td>2023-05-13 07:49:01 </td>
+
+                    <td>31895.00 </td>
+                    <td>27029.66 </td>
+                    <td>21624 </td>
+                    <td>Fresh </td>
+                    <td>1 </td>
+
+                    <td></td>
+                    <td>Non Medical </td>
+                    <td>Zone-3 </td>
+                    <td>Nitisha-10569 </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Data3 </td>
+                    <td>Online </td>
+                    <td>Enforeced </td>
+                    <td>2023-05-18 01:11:04 </td>
+                    <td>NA /NA /C-section 2006/Na / </td>
+                    <td>1351 </td>
+                    <td></td>
+                    <td>None/None/None/None/ </td>
+                    <td>2023-05-13 </td>
+                    <td>2024-05-12 </td>
+                    <td>Fresh </td>
+                    <td>Policy Issued  </td>
+                </tr>
+        
+    </tbody>
+
+</table>
